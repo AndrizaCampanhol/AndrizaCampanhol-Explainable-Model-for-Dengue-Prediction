@@ -27,3 +27,13 @@ dados coletados da API do [InfoDengue](https://info.dengue.mat.br/services/api)
 implementação do modelo LSTM foi baseada nesse [tutorial](http://datasideoflife.com/?p=1171)
 
 plataforma utilizada para discretização disponível em [Symbols!](https://esilveira.shinyapps.io/symbols/)
+
+---
+
+Instituto Nacional de Meteorologia - INMET.  Disponível em: <https://portal.inmet.gov.br/>. Acesso em: 16 ago. 2024.
+
+info.dengue.mat.br/services/api.  Disponível em: <https://info.dengue.mat.br/services/api>. Acesso em: 16 ago. 2024.
+
+DZIEDZICKA, Alicja. LSTM time series prediction in R – Data Side of Life. Disponível em: http://datasideoflife.com/?p=1171. Acesso em: 14 ago. 2024.
+
+SILVEIRA, Eduardo. Symbols!.  Disponível em: <https://esilveira.shinyapps.io/symbols/>. Acesso em: 16 ago. 2024.
